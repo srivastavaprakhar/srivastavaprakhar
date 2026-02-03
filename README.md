@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Prakhar Srivastava
 
-<!--
-**srivastavaprakhar/srivastavaprakhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ Manipal University Jaipur  
+🤖 Machine Learning | Generative AI | 📈 Stock Market Prediction  
 
-Here are some ideas to get you started:
+I build **end-to-end ML systems** with a focus on **representation learning**, **rigorous evaluation**, and understanding the *limits of predictive signal*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 What I'm Working On
+
+### 📈 Stock Market Prediction
+- CNNs trained on candlestick image representations
+- End-to-end pipeline: **OHLCV → preprocessing → model → evaluation**
+- Leakage-free sliding windows & strict train/val/test splits
+- Empirical finding: short candlestick windows show limited generalizable signal → exploring **longer temporal context & alternative representations*
+
+## 📫 Connect
+- GitHub: https://github.com/srivastavaprakhar
+- LinkedIn: https://www.linkedin.com/in/srivastava-p
+- X : https://x.com/Prakhar_438
