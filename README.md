@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Prakhar
 
-I'm a Computer Science undergraduate passionate about **machine learning**, **generative AI**, and **stock market prediction**.  
-I like building **end-to-end ML pipelines**, running rigorous experiments, and understanding *where models fail* rather than overselling results.
+I'm a Computer Science undergraduate passionate about **machine learning**, **generative AI**, and **artificial intelligence**.  
 
 ## 🚧 Currently Working On
 
