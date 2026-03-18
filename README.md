@@ -2,13 +2,11 @@
 
 I'm a Computer Science undergraduate passionate about **machine learning**, **generative AI**, and **artificial intelligence**.  
 
-## 🚧 Currently Working On
-
-- 📈 **Stock Market Prediction**
-  - CNNs on candlestick representations
-  - OHLCV → preprocessing → model → evaluation
-  - Leakage-free sliding windows & strict splits
-  - Exploring longer temporal context & improved representations
+## Projects
+- AskQuery — Natural language university assistant powered by RAG, FAISS, and Mistral 7B for instant answers over campus databases.
+- Stock Market Prediction — CNN-based pipeline that learns stock movement signals from auto-rendered candlestick images using PyTorch.
+- Voice Assistant — Hands-free Windows automation assistant that understands voice commands and controls desktop apps using AI.
+- VERIFIN-AI — OCR + LLM pipeline that ingests invoices and purchase orders, extracts structured data, and answers queries over it in natural language.
 
 ## 🧰 Tech Stack
 
