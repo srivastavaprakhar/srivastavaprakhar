@@ -3,6 +3,7 @@
 I'm a Computer Science undergraduate passionate about **machine learning**, **generative AI**, and **artificial intelligence**.  
 
 ## Projects
+- 404 traffic not found — Event-driven traffic congestion prediction and resource optimization platform for Bengaluru Traffic Police, combining ML forecasting (XGBoost, LightGBM, Prophet), ILP-based officer deployment, and dynamic diversion routing via OSMnx — validated with SUMO micro-traffic simulation.
 - AskQuery — Natural language university assistant powered by RAG, FAISS, and Mistral 7B for instant answers over campus databases.
 - Stock Market Prediction — CNN-based pipeline that learns stock movement signals from auto-rendered candlestick images using PyTorch.
 - Voice Assistant — Hands-free Windows automation assistant that understands voice commands and controls desktop apps using AI.
